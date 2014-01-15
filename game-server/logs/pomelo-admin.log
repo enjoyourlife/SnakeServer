@@ -1,0 +1,5 @@
+[2014-01-12 21:42:33.447] [INFO] pomelo-admin - [32m[/Users/cy/Desktop/forfreedom/SnakeServer/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2014-01-12 21:42:33.972] [INFO] pomelo-admin - [32m[/Users/cy/Desktop/forfreedom/SnakeServer/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2014-01-12 21:45:27.906] [INFO] pomelo-admin - [32m[/Users/cy/Desktop/forfreedom/SnakeServer/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/masterAgent.js] [39mclient user : admin login to master
+[2014-01-12 21:45:27.916] [INFO] pomelo-admin - [32m[/Users/cy/Desktop/forfreedom/SnakeServer/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/masterAgent.js] [39mclient user admin exit
+[2014-01-12 21:46:11.339] [INFO] pomelo-admin - [32m[/Users/cy/Desktop/forfreedom/SnakeServer/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/masterAgent.js] [39mclient user : admin login to master
